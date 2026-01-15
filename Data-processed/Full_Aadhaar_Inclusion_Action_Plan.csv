@@ -1,0 +1,8 @@
+state,district,inclusion_risk_score,action_plan
+Telangana,Medchal?malkajgiri,1.0,CRITICAL: Deploy Mobile Enrollment Vans & Iris-only kits.
+Chhattisgarh,ManendragarhChirmiriBharatpur,0.865767878077374,CRITICAL: Deploy Mobile Enrollment Vans & Iris-only kits.
+Daman & Diu,Daman,0.742602781227406,CRITICAL: Deploy Mobile Enrollment Vans & Iris-only kits.
+Chhattisgarh,Dantewada,0.6371417296027637,HARDWARE: High biometric failure. Refresh local sensor infrastructure.
+Daman and Diu,Daman,0.6289273680756742,HARDWARE: High biometric failure. Refresh local sensor infrastructure.
+Mizoram,Serchhip,0.6128508791107974,HARDWARE: High biometric failure. Refresh local sensor infrastructure.
+Mizoram,Mamit,0.6041037993167557,HARDWARE: High biometric failure. Refresh local sensor infrastructure.
